@@ -11,6 +11,6 @@ Quick visualisation of the kickstarter dataset
 
 ![pic2](screenshots/pic2.png)
 
-**Heatmap of probability of success by State**
+**Heatmap of probability of campaign success by State**
 
 ![pic3](screenshots/pic3.png)
