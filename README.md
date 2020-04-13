@@ -1,6 +1,8 @@
 # Kickstarter visualisation
 Quick visualisation of the kickstarter dataset
 
+**Correlation of numerical variables with funded percentage**
+
 ![pic1](screenshots/pic1.png)
 
 
