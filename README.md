@@ -7,6 +7,8 @@ Quick visualisation of the kickstarter dataset
 
 ![pic1](screenshots/pic1.png)
 
+<br></br>
+
 **Probability of campaign success for different categories**
 
 ![pic2](screenshots/pic2.png)
